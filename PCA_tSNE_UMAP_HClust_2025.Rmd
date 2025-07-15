@@ -1,5 +1,5 @@
 ---
-title: "PCA, tSNE, UMAP, and Hierarchical Clustering"
+title: "PCA, UMAP, and tSNE"
 author: "Jim Costello"
 date: "7/15/2025"
 output: html_document
